@@ -1,5 +1,5 @@
 {
-    "cSpell.words": [
-        "Guuy"
-    ]
+  "cSpell.words": ["Guuy"],
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSave": false
 }

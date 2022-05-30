@@ -37,7 +37,7 @@ const data = JSON.stringify({
 const sendMeMessage = () => {
     axios({
         method: 'post',
-        url: `https://graph.facebook.com/v12.0/${process.env.ID}/messages/`,
+        url: `https://graph.facebook.com/v12.0/${process.env.WA_ID}/messages/`,
         headers: { 
             'Content-Type': 'application/json', 
             'Authorization': `Bearer ${process.env.WA_TOKEN}`
