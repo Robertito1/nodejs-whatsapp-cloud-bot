@@ -1,13 +1,13 @@
 {
-  "name": "y",
+  "name": "nodejs-whatsapp-cloud-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": " NodeJs library that conneects to the new Whatsapp cloud API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Orazu Robert, Evaristus Radi",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
