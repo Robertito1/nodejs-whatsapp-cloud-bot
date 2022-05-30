@@ -1,4 +1,4 @@
-#Nodejs-whatsapp-bot
+# Nodejs-whatsapp-bot
 
 A NodeJs library that conneects to the new Whatsapp cloud API.
 
@@ -11,8 +11,8 @@ or
 yarn add nodejs-whatsapp-bot
 ```
 
-##Sample usage
-###Send a Text message
+## Sample usage
+### Send a Text message
 
 ```
 const { Whatsapp } = require('./functions/whatsapp');
