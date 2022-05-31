@@ -16,7 +16,7 @@ yarn add nodejs-whatsapp-bot
 ### Send a Text message
 
 ```
-const { Whatsapp } = require('nodejs-whatsapp-cloud-bot/whatsapp');
+const { Whatsapp } = require('nodejs-whatsapp-cloud-bot');
 
 const bot = new Whatsapp(WHATSAPP_ID, WHATSAPP_TOKEN);
 const target_phone_number = "123xxxx";
