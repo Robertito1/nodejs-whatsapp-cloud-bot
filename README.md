@@ -1,6 +1,7 @@
 # Nodejs-whatsapp-bot
 
 A NodeJs library that conneects to the new Whatsapp cloud API.
+https://www.npmjs.com/package/nodejs-whatsapp-cloud-bot
 
 To use, run 
 ```
