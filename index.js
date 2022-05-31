@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 // const { Whatsapp } = require('./functions/whatsapp')
 
 // const bot = new Whatsapp(process.env.WA_ID, process.env.WA_TOKEN)
