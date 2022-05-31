@@ -8,7 +8,6 @@ class Whatsapp {
         this.base_url = `https://graph.facebook.com/v12.0/${this.WA_ID}`;
         this.message_url = `${this.base_url}/messages`;
     }
-    a=console.log(this.message_url,this.WA_ID)
     //method to send text message
     send_text = (phone_num, text, url_preview = true) => {
         const data = JSON.stringify({
